@@ -1,0 +1,3 @@
+- it is a very basic linear search to get the max and min
+- time complexity O(n)
+- Space complexity O(1)

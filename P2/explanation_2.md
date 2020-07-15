@@ -1,0 +1,5 @@
+- os module used
+- first use os.path.exists to examine the input path
+- implement a deep loop to search in all sub directories
+- time complexity is O(n) n is numer of all files and directories in the path
+- space complexity is O(n)

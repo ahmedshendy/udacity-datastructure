@@ -1,0 +1,3 @@
+- the idea is that put 0s at the beginning of the array, and put 2s at the end
+- time complexity is linear O(n)
+- Space complexity is O(1), because it is inplace sorting

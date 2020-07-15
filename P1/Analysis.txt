@@ -1,0 +1,22 @@
+- Task 0
+    the access of item with index in the list have fixed complexity so
+    the complexity is O(1)
+
+- Task 1
+    in this task there is a loop over all inputs and use a dict to store the distiit number, the complexity inputs
+    O(n)
+
+- Task 2
+    in this task there are 2 loops one over all inputs and one over the distincit numbers, so we can aproximate that the complexity is
+    O(n)
+
+- Task 3
+    in this task there is a loop over the call, and loop over the sorted bangalore codes, and the sorting operation so the complexity is
+    O(n + k + klog(k)) where n is the number of call and k the number of disticit area codes that received call from bangalore numbers
+    with approximation we can say that the complexity is
+    O(nlog(n))
+
+- Task 4
+    in this task there is a loop over all inputs, and loop over the calls onle, and sorting for the telemarketers numbers, so the complexity is
+    O(n + n + klog(k)) it can be aproximated to be
+    O(nlog(n))
